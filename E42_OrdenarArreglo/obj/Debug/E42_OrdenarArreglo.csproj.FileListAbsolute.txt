@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E42_OrdenarArreglo\E42_OrdenarArreglo\bin\Debug\E42_OrdenarArreglo.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E42_OrdenarArreglo\E42_OrdenarArreglo\bin\Debug\E42_OrdenarArreglo.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E42_OrdenarArreglo\E42_OrdenarArreglo\bin\Debug\E42_OrdenarArreglo.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E42_OrdenarArreglo\E42_OrdenarArreglo\obj\Debug\E42_OrdenarArreglo.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E42_OrdenarArreglo\E42_OrdenarArreglo\obj\Debug\E42_OrdenarArreglo.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E42_OrdenarArreglo\E42_OrdenarArreglo\obj\Debug\E42_OrdenarArreglo.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E42_OrdenarArreglo\E42_OrdenarArreglo\obj\Debug\E42_OrdenarArreglo.pdb
