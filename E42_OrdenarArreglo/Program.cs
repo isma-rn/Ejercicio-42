@@ -26,7 +26,7 @@ namespace E42_OrdenarArreglo
 
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.WriteLine("\n\nArreglo ordenado ascendente:");
-                    foreach (var v in OrdenarAsendente(prueba))
+                    foreach (var v in OrdenarAscendente(prueba))
                         Console.Write("[{0}]", v);
 
                     Console.WriteLine("\n\nArreglo ordenado ascendente (LINQ):");
@@ -34,7 +34,7 @@ namespace E42_OrdenarArreglo
                         Console.Write("[{0}]", v);
 
                     Console.WriteLine("\n\nArreglo ordenado descendente:");
-                    foreach (var v in OrdenarDesendente(prueba))
+                    foreach (var v in OrdenarDescendente(prueba))
                         Console.Write("[{0}]", v);
 
                     Console.WriteLine("\n\nArreglo ordenado descendente (LINQ):");
@@ -67,7 +67,7 @@ namespace E42_OrdenarArreglo
             } while (!salir);
 
         }
-        public static int?[] OrdenarAsendente(int?[] arreglo)
+        public static int?[] OrdenarAscendente(int?[] arreglo)
         {
             int? t;
             for (int a = 1; a < arreglo.Length; a++)
@@ -82,7 +82,7 @@ namespace E42_OrdenarArreglo
                 }
             return arreglo;
         }
-        public static int?[] OrdenarDesendente(int?[] arreglo)
+        public static int?[] OrdenarDescendente(int?[] arreglo)
         {
             int? t;
             for (int a = 1; a < arreglo.Length; a++)
